@@ -1,2 +1,5 @@
 UnityProject/Library/
 UnityProject/Temp/UnityLockfile
+UnityProject/Temp/
+*.sln
+*.csproj
